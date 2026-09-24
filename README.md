@@ -43,7 +43,7 @@ To deploy a **secure, scalable, and web-based Staff Management system** that uni
 
 * **Language:** [C#](https://microsoft.com)
 * **Framework:** [ASP.NET Core MVC](https://microsoft.com)
-* **Runtime:** [.NET 8.0 / .NET 9.0](https://microsoft.com)
+* **Runtime:** [.NET 9.0/higher](https://microsoft.com)
 * **Data Layer:** In-Memory Provider (Database-ready interface abstraction)
 
 ---
