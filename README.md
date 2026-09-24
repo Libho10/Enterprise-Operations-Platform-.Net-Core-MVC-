@@ -1,12 +1,6 @@
 # Enterprise-Operations-Platform-.Net-Core-MVC-
 A secure, layered ASP.NET Core MVC web application designed to modernise healthcare compliance and support staff administration across multi-provincial systems.
 
-[![.NET Core](https://shields.io)](https://microsoft.com)
-[![Architecture](https://shields.io)]()
-[![Status](https://shields.io)]()
-
-An enterprise-grade, secure, and scalable web-based staff management system designed to meet strict modern healthcare compliance frameworks across multi-provincial networks.
-
 ---
 
 ## Context
@@ -45,10 +39,7 @@ To deploy a **secure, scalable, and web-based Staff Management system** that uni
 * **Framework:** [ASP.NET Core MVC](https://microsoft.com)
 * **Runtime:** [.NET 9.0/higher](https://microsoft.com)
 * **Data Layer:** In-Memory Provider (Database-ready interface abstraction)
-
 ---
-
 ## Prerequisites 
-Make sure you have the following installed locally:
 * [.NET SDK](https://microsoft.comen-us/download) (Version 9.0 or later)
-* An IDE such as [Visual Studio](https://microsoft.com) or [VS Code](https://visualstudio.com)
+* An IDE such as [Visual Studio](https://microsoft.com)
